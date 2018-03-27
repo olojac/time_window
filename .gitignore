@@ -1,0 +1,4 @@
+/.bundle
+.env
+.rspec_status
+coverage
